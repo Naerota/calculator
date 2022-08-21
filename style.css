@@ -11,6 +11,10 @@ header {
     text-align: center;
 }
 
+.rtl{
+    margin-left: auto;
+}
+
 .container{
     background-color: #465881 ;
     display: flex;
@@ -32,7 +36,6 @@ header {
     flex: 1 1 auto;
     justify-content: center;
     margin-bottom: 20px;
-    direction: rtl;
 }
 
 
